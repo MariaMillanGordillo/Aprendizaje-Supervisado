@@ -6,7 +6,7 @@
 
 ## Contenido
 
-### Proyecto 1: Predicción de Churn de Clientes
+### Proyecto 1: Predicción de Churn
 
 *   **Objetivo:** Predecir la probabilidad de que un cliente abandone la empresa (churn).
 *   **Descripción:** Este proyecto aborda el problema clásico de la predicción de churn. Se realiza un análisis exploratorio exhaustivo para comprender mejor los datos.
@@ -20,7 +20,7 @@
     *   SVC
     *   Decision Tree Classifier
 
-### Proyecto 2: Clasificación de Imágenes con Redes Neuronales
+### Proyecto 2: Clasificación de Imágenes
 
 *   **Objetivo:** Clasificar imágenes del dataset CIFAR-10 utilizando una red neuronal.
 *   **Descripción:** Se implementa una red neuronal para clasificar imágenes del dataset CIFAR-10.
@@ -30,7 +30,7 @@
     *   Capas Convolucionales y MaxPooling
     *   Capas Convolucionales, MaxPooling y DropOut
 
-### Proyecto 3: Clasificación de Texto y Análisis de Sentimientos
+### Proyecto 3: Clasificación de Texto
 
 *   **Objetivo:** Clasificar las emociones expresadas en tweets.
 *   **Descripción:** Se utiliza un dataset de Twitter para la clasificación de emociones mediante modelos de aprendizaje automático y redes neuronales.
@@ -45,7 +45,7 @@
     *   Red Neuronal Recurrente
     *   Red Neuronal con LSTM
 
-### Proyecto 4: Regresión para la Predicción de Emisiones de CO2
+### Proyecto 4: Regresión
 
 *   **Objetivo:** Predecir las emisiones de CO2 de vehículos basándose en sus características.
 *   **Descripción:** Se realiza un Análisis Exploratorio de Datos (EDA) para comprender la distribución y relaciones entre variables. Además, se prueban distintas estrategias de preprocesamiento, incluyendo la consideración o exclusión de valores atípicos.
